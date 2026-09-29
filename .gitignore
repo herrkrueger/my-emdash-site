@@ -4,3 +4,5 @@ dist
 uploads
 data.db
 .remember
+.wrangler
+.emdash/migrations.json
